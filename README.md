@@ -36,8 +36,9 @@
 
 ### 更多东西推荐 :shipit:
 
-minecraft服务器：[前往](wscr501.github.io)
-病毒下载:[前往](wscr501.github.io/newweb/)
+minecraft服务器：[前往](https://wscr501.github.io)
+
+病毒下载:[前往](https://wscr501.github.io/newweb/)
 
 [^1]:杀毒软件等内核级软件创建的保护文件夹除外
 [^2]:类似“system32”、“Windows”、“boot”等
