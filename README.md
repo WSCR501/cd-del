@@ -3,7 +3,7 @@
 > [!WARNING]
 > 无计算机基础人员切勿使用
 
-官网:[点击前往](wscr501.github.io/helloworld/news.html)
+官网:[点击前往](https://wscr501.github.io/helloworld/news.html)
 
 多种文件粉碎方式，解决傻*文件/文件夹删不掉的烦恼
 
